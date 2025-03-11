@@ -62,9 +62,9 @@ languages:
     languageDirection: rtl
     languageName: "Portuguese"
     contentDir: content/fa
-    title: "اسناد گلدی"
+    title: "Goldydocs"
     params:
-      description: "یک نمونه برای پوسته داکسی"
+      description: Um site de exemplo de Docsys
       time_format_default: 2006.01.02
       time_format_blog: 2006.01.02
   # cSpell:enable
