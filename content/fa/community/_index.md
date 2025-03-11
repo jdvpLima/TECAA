@@ -1,8 +1,8 @@
 ---
-title: انجمن
+title: Comunidade
 menu:
   main:
     weight: 40
 ---
 
-<!--add blocks of content here to add more sections to the community page -->
+<!-- adicione blocos de conteúdo aqui para incluir mais seções na página da comunidade -->

@@ -1,4 +1,4 @@
 ---
-title: نتایج جستجو
-layout: جستجو
+title: Resultados da Pesquisa
+layout: pesquisa
 ---

@@ -1,4 +1,4 @@
 ---
-title: نسخه های منتشر شده
+title: Versões Lançadas
 weight: 20
 ---

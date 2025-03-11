@@ -1,36 +1,36 @@
 ---
-title: مرور کلی
-description: در اینجا کاربران شما متوجه می‌شوند که آیا پروژه شما برای آن‌ها مناسب است یا نه.
+title: Visão Geral
+description: Aqui, seus usuários entenderão se o seu projeto é adequado para eles ou não.
 weight: 1
 ---
 
 {{% pageinfo %}}
 
-این یک صفحه جایگزین است که به شما نشان می‌دهد چگونه از این سایت الگو استفاده کنید.
+Esta é uma página alternativa que mostra como usar este site modelo.
 
 {{% /pageinfo %}}
 
-مرور کلی جایی است که کاربران شما درباره پروژه شما اطلاعات کسب می‌کنند. بسته به اندازه مجموعه مستندات شما، می‌توانید یک صفحه مرور جداگانه داشته باشید (مثل این یکی) یا محتوای مرور خود را در صفحه اصلی مستندات قرار دهید (مثل راهنمای کاربر Docsy).
+A visão geral é onde seus usuários aprendem sobre o seu projeto. Dependendo do tamanho da sua documentação, você pode ter uma página separada para a visão geral (como esta) ou incluir esse conteúdo diretamente na página principal da documentação (como no guia do usuário do Docsy).
 
-سعی کنید به این سوالات برای کاربر خود در این صفحه پاسخ دهید:
+Tente responder a estas perguntas para seus usuários nesta página:
 
-## این چیست؟
+## O que é isso?
 
-پروژه خود را معرفی کنید، از جمله کاری که انجام می‌دهد یا به شما اجازه می‌دهد انجام دهید، چرا باید از آن استفاده کنید، و هدف اصلی آن (و چگونه به آن دست می‌یابد). این باید شبیه به توضیحات README شما باشد، اگرچه می‌توانید در صورت تمایل به جزئیات بیشتری در اینجا بپردازید.
+Apresente seu projeto, incluindo o que ele faz ou permite que os usuários façam, por que eles deveriam usá-lo e qual é seu principal objetivo (e como ele o alcança). Esta descrição deve ser semelhante ao seu README, mas aqui você pode entrar em mais detalhes, se desejar.
 
-## چرا می‌خواهم آن را داشته باشم؟
+## Por que eu gostaria de usá-lo?
 
-به کاربران خود کمک کنید بدانند آیا پروژه شما به آن‌ها کمک می‌کند یا نه. اطلاعات مفید می‌تواند شامل موارد زیر باشد:
+Ajude seus usuários a entender se seu projeto pode ser útil para eles. Algumas informações úteis incluem:
 
-- **برای چه خوب است؟**: چه نوع مشکلاتی را پروژه شما حل می‌کند؟ مزایای استفاده از آن چیست؟
+- **Para que ele é bom?**: Que tipos de problemas seu projeto resolve? Quais são os benefícios de usá-lo?
 
-- **برای چه خوب نیست؟**: به عنوان مثال، شرایطی را ذکر کنید که ممکن است به صورت شهودی مناسب پروژه شما به نظر برسد، اما به دلایلی مناسب نیست. همچنین محدودیت‌های شناخته شده، مشکلات مقیاس‌پذیری، یا هر چیز دیگری که ممکن است به کاربران شما بگوید که پروژه برای آن‌ها نیست را ذکر کنید.
+- **Para que ele não é bom?**: Por exemplo, mencione situações em que seu projeto pode parecer adequado à primeira vista, mas, por algum motivo, não é. Liste também quaisquer limitações conhecidas, problemas de escalabilidade ou qualquer outra coisa que possa indicar que o projeto não é a melhor escolha para certos usuários.
 
-- **برای چه _هنوز_ خوب نیست؟**: هر ویژگی مفیدی که به زودی می‌آید را برجسته کنید.
+- **Para que ele _ainda_ não é bom?**: Destaque quaisquer recursos úteis que estão planejados para futuras versões.
 
-## بعد کجا باید بروم؟
+## Para onde ir a seguir?
 
-گام‌های بعدی را از مرور کلی به کاربران خود بدهید. به عنوان مثال:
+Forneça os próximos passos para seus usuários a partir da visão geral. Por exemplo:
 
-- [شروع کار](/docs/getting-started/): با $project شروع کنید
-- [مثال‌ها](/docs/examples/): برخی کدهای نمونه را بررسی کنید!
+- [Começando](/docs/getting-started/): Comece a usar o $projeto  
+- [Exemplos](/docs/examples/): Confira alguns exemplos de código!

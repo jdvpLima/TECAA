@@ -20,4 +20,56 @@ Voce pode ate descobrir quem está comendo **seu** "porridge".
 
 (Infelizmente, o Goldydocs nao e um projeto real, mas voce pode usar este site como um exemplo 
 para criar seus proprios sites reais com o [Docsy](https://docsy.dev))
+
 {{% /blocks/lead %}}
+{{% blocks/section color="dark" type="row" %}}
+{{% blocks/feature icon="fa-lightbulb" title="Novas métricas de cadeiras!" %}}
+A interface do Goldydocs agora exibe métricas de tamanho das cadeiras por padrão.
+
+Acompanhe este espaço para atualizações!
+{{% /blocks/feature %}}
+
+
+{{% blocks/feature icon="fab fa-github" title="Contribuições são bem-vindas!" url="https://github.com/google/docsy-example" %}}
+Utilizamos um fluxo de contribuições por [Pull Request](https://github.com/google/docsy-example/pulls) no **GitHub**. Novos usuários são sempre bem-vindos!
+{{% /blocks/feature %}}
+
+
+{{% blocks/feature icon="fab fa-twitter" title="Siga-nos no Twitter!" url="https://twitter.com/docsydocs" %}}
+Para anúncios das últimas funcionalidades e muito mais.
+{{% /blocks/feature %}}
+
+
+{{% /blocks/section %}}
+
+
+{{% blocks/section %}}
+Esta é a segunda seção
+{.h1 .text-center}
+{{% /blocks/section %}}
+
+
+{{% blocks/section type="row" %}}
+
+{{% blocks/feature icon="fab fa-app-store-ios" title="Baixe **na AppStore**" %}}
+Baixe o aplicativo Goldydocs!
+{{% /blocks/feature %}}
+
+{{% blocks/feature icon="fab fa-github" title="Contribuições são bem-vindas!"
+    url="https://github.com/google/docsy-example" %}}
+Utilizamos um fluxo de contribuições por [Pull Request](https://github.com/google/docsy-example/pulls)
+no **GitHub**. Novos usuários são sempre bem-vindos!
+{{% /blocks/feature %}}
+
+{{% blocks/feature icon="fab fa-twitter" title="Siga-nos no Twitter!"
+    url="https://twitter.com/GoHugoIO" %}}
+Para anúncios das últimas funcionalidades e muito mais.
+{{% /blocks/feature %}}
+
+{{% /blocks/section %}}
+
+
+{{% blocks/section %}}
+Esta é outra seção
+{.h1 .text-center}
+{{% /blocks/section %}}
