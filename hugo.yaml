@@ -67,6 +67,14 @@ languages:
       description: "یک نمونه برای پوسته داکسی"
       time_format_default: 2006.01.02
       time_format_blog: 2006.01.02
+  pt:
+    languageName: "Português (Portuguese)"
+    contentDir: content/pt
+    title: "Goldydocs"
+    params:
+    description: Site de Exemplo de Docsys
+    time_format_default: 2006.01.02
+    time_format_blog: 2006.01.02
   # cSpell:enable
 
 markup:
